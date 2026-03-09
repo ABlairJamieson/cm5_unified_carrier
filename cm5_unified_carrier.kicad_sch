@@ -1139,6 +1139,385 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "PJ-102AH:PJ-102AH"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -7.6258 5.0838 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "PJ-102AH"
+				(at -7.6296 -5.0864 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "PJ-102AH:CUI_PJ-102AH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Same Sky"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Purchase-URL" "https://pricing.snapeda.com/search/part/PJ-102AH/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/PJ-102AH/Same+Sky/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "CUI_purchase_URL" "https://www.cuidevices.com/product/interconnect/connectors/dc-power-connectors/jacks/pj-102ah?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/PJ-102AH/Same+Sky/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "PJ-102AH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "2.0 x 6.5 mm, 5.0 A, Horizontal, Through Hole, Tapered Pins, Dc Power Jack Connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "PJ-102AH_0_0"
+				(polyline
+					(pts
+						(xy -5.715 3.81) (xy -1.27 3.81)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -5.715 1.27)
+					(mid -6.9794 2.54)
+					(end -5.715 3.81)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 -1.27) (xy -4.445 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.175 -2.54) (xy -3.81 -1.27)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 4.445) (xy -1.27 3.81)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 3.81) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -5.715 1.27)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.27) (xy -1.27 0.635)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0.635) (xy 0 0.635)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 4.445) (xy -1.27 4.445)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0.635) (xy 0 4.445)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy -3.175 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy -0.508 -1.27) (xy 0.508 -1.27) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+5V"
 			(power)
 			(pin_numbers
@@ -2666,6 +3045,12 @@
 		(uuid "01771582-c0a5-4205-ad86-6c23c1c4b447")
 	)
 	(junction
+		(at 191.77 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0b87fb45-cb5a-413d-adcd-1251e8058718")
+	)
+	(junction
 		(at 67.31 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2746,6 +3131,10 @@
 	(no_connect
 		(at 214.63 63.5)
 		(uuid "0eba5b56-649e-4a03-b448-c19d962314f4")
+	)
+	(no_connect
+		(at 213.36 143.51)
+		(uuid "1e442979-9f1e-4a8b-a42c-2411c56d128e")
 	)
 	(no_connect
 		(at 214.63 68.58)
@@ -3245,6 +3634,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 140.97) (xy 191.77 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a13695eb-acf1-431d-be43-07321a213c3b")
+	)
+	(wire
+		(pts
 			(xy 58.42 95.25) (xy 64.77 95.25)
 		)
 		(stroke
@@ -3425,6 +3824,26 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 148.59) (xy 191.77 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "daeeb8d4-7855-4d2d-8cd7-3c7fdfc06751")
+	)
+	(wire
+		(pts
+			(xy 191.77 140.97) (xy 213.36 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db6b8af5-bd84-4bcc-90fe-6de7d3263401")
+	)
+	(wire
+		(pts
 			(xy 26.67 121.92) (xy 30.48 121.92)
 		)
 		(stroke
@@ -3442,6 +3861,16 @@
 			(type default)
 		)
 		(uuid "de6f4c4d-65cc-409c-b9e6-696a704de476")
+	)
+	(wire
+		(pts
+			(xy 210.82 146.05) (xy 213.36 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec497c4b-4b4f-499f-a77d-b752572ef97d")
 	)
 	(wire
 		(pts
@@ -3542,6 +3971,16 @@
 			(justify left bottom)
 		)
 		(uuid "340b3b25-f19d-49da-821f-ab13d32b24b4")
+	)
+	(label "V12_BUS"
+		(at 187.96 140.97 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3c7e9594-93ae-4fb9-a94b-f30aca15f390")
 	)
 	(label "VIN_MURATA"
 		(at 101.6 38.1 0)
@@ -4525,6 +4964,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 191.77 144.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5b52e932-c5c8-4f18-bbee-5f8dc5f0ad96")
+		(property "Reference" "C103"
+			(at 195.58 143.5099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uF"
+			(at 195.58 146.0499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+			(at 192.7352 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 191.77 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 191.77 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1b3e59b0-fa33-40f7-a6ad-f98b965dbe12")
+		)
+		(pin "1"
+			(uuid "e2719483-9de8-407e-8ccb-e2d299915a9b")
+		)
+		(instances
+			(project "cm5_unified_carrier"
+				(path "/ee887ca3-c545-439a-9405-8d7a48a3d148"
+					(reference "C103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:FerriteBead")
 		(at 80.01 38.1 90)
 		(unit 1)
@@ -4594,6 +5103,188 @@
 			(project ""
 				(path "/ee887ca3-c545-439a-9405-8d7a48a3d148"
 					(reference "FB101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PJ-102AH:PJ-102AH")
+		(at 218.44 143.51 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "681851a9-8d52-4ee4-b21f-d48e73154b0a")
+		(property "Reference" "J104"
+			(at 227.33 143.8276 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "PJ-102AH"
+			(at 227.33 141.2876 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "PJ-102AH:CUI_PJ-102AH"
+			(at 218.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 218.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 218.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Same Sky"
+			(at 218.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://pricing.snapeda.com/search/part/PJ-102AH/?ref=eda"
+			(at 218.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 218.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 218.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/PJ-102AH/Same+Sky/view-part/?ref=eda"
+			(at 218.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "CUI_purchase_URL" "https://www.cuidevices.com/product/interconnect/connectors/dc-power-connectors/jacks/pj-102ah?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"
+			(at 218.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/PJ-102AH/Same+Sky/view-part/?ref=snap"
+			(at 218.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "PJ-102AH"
+			(at 218.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 218.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "2.0 x 6.5 mm, 5.0 A, Horizontal, Through Hole, Tapered Pins, Dc Power Jack Connector"
+			(at 218.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purpose" ""
+			(at 218.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "7a9a1fe5-2f55-4532-be42-74284fb99be1")
+		)
+		(pin "1"
+			(uuid "6fcec287-ee04-4ab4-92ae-a35ac636d053")
+		)
+		(pin "2"
+			(uuid "0397198c-926d-4f92-900e-049b567ef48b")
+		)
+		(instances
+			(project "cm5_unified_carrier"
+				(path "/ee887ca3-c545-439a-9405-8d7a48a3d148"
+					(reference "J104")
 					(unit 1)
 				)
 			)
@@ -4753,6 +5444,72 @@
 			(project "cm5_unified_carrier"
 				(path "/ee887ca3-c545-439a-9405-8d7a48a3d148"
 					(reference "#PWR0110")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 210.82 146.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "800510b7-1ba2-493a-8bb8-c8d32669860f")
+		(property "Reference" "#PWR0118"
+			(at 210.82 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 210.82 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 210.82 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 210.82 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 210.82 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "95f020a6-33e0-42a3-b195-16a2620d9ab5")
+		)
+		(instances
+			(project "cm5_unified_carrier"
+				(path "/ee887ca3-c545-439a-9405-8d7a48a3d148"
+					(reference "#PWR0118")
 					(unit 1)
 				)
 			)
@@ -5227,6 +5984,72 @@
 			(project "cm5_unified_carrier"
 				(path "/ee887ca3-c545-439a-9405-8d7a48a3d148"
 					(reference "#PWR0113")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 191.77 151.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d2fb66b4-0cf3-4751-aea9-516a9ade028d")
+		(property "Reference" "#PWR0117"
+			(at 191.77 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 191.77 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.77 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 191.77 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 191.77 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cfbf901c-e9d9-4d67-9a9e-a9c50f59d745")
+		)
+		(instances
+			(project "cm5_unified_carrier"
+				(path "/ee887ca3-c545-439a-9405-8d7a48a3d148"
+					(reference "#PWR0117")
 					(unit 1)
 				)
 			)
