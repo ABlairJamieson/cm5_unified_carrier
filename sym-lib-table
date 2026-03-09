@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AG5712-LPB")(type "KiCad")(uri "${KIPRJMOD}/include/AG5712_LPB/AG5712-LPB.kicad_sym")(options "")(descr "Ethernet PoE Splitter"))
+  (lib (name "ULS-12_5-D48N-C")(type "KiCad")(uri "${KIPRJMOD}/include/ULS_12_5_D48N_C/ULS-12_5-D48N-C.kicad_sym")(options "")(descr "48V to 12V or 5V modules"))
+  (lib (name "Radxa_CM5")(type "KiCad")(uri "${KIPRJMOD}/include/radxa-cm5-kicad-main/radxa-cm5-kicad-main/symbols/Radxa_CM5.kicad_sym")(options "")(descr "Raxda CM5 compute module"))
+  (lib (name "436500215")(type "KiCad")(uri "${KIPRJMOD}/include/436500215/436500215.kicad_sym")(options "")(descr "Microfit 3 2pin power connector"))
+  (lib (name "436500403")(type "KiCad")(uri "${KIPRJMOD}/include/436500403/436500403.kicad_sym")(options "")(descr "Microfit 3 4pin power connector"))
+  (lib (name "OKL2-T_6-W12N-C")(type "KiCad")(uri "${KIPRJMOD}/include/OKL2_T_6_W12N_C/OKL2-T_6-W12N-C.kicad_sym")(options "")(descr "12V->5V 6A"))
+  (lib (name "I6A24014A033V-002-R")(type "KiCad")(uri "${KIPRJMOD}/include/I6A24014A033V-002-R/I6A24014A033V-002-R.kicad_sym")(options "")(descr "12V->8V"))
+  (lib (name "PJ-102AH")(type "KiCad")(uri "${KIPRJMOD}/include/PJ-102AH/PJ-102AH.kicad_sym")(options "")(descr ""))
+  (lib (name "ul_484050003")(type "KiCad")(uri "${KIPRJMOD}/include/484050003/KiCADv6/ul_484050003.kicad_sym")(options "")(descr "USB3.2 connector"))
+  (lib (name "ul_10118194_0001LF")(type "KiCad")(uri "${KIPRJMOD}/include/10118194_0001LF/KiCADv6/ul_10118194_0001LF.kicad_sym")(options "")(descr ""))
+)

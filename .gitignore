@@ -1,0 +1,22 @@
+# KiCad
+*.kicad_prl
+*.kicad_pro-bak
+*-cache.lib
+*.bak
+*.tmp
+*.dsn
+*.ses
+*.rpt
+*.net
+*.xml
+
+# autosave
+*_autosave*
+
+# python
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db

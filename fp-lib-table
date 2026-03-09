@@ -1,0 +1,12 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AG5712_LPB")(type "KiCad")(uri "${KIPRJMOD}/include/AG5712_LPB")(options "")(descr ""))
+  (lib (name "CM5 module")(type "KiCad")(uri "${KIPRJMOD}/include/radxa-cm5-kicad-main/radxa-cm5-kicad-main/raxda-cm5.pretty")(options "")(descr ""))
+  (lib (name "ULS_12_5_D48N_C")(type "KiCad")(uri "${KIPRJMOD}/include/ULS_12_5_D48N_C")(options "")(descr ""))
+  (lib (name "436500215")(type "KiCad")(uri "${KIPRJMOD}/include/436500215")(options "")(descr ""))
+  (lib (name "I6A24014A033V-002-R")(type "KiCad")(uri "${KIPRJMOD}/include/I6A24014A033V-002-R")(options "")(descr ""))
+  (lib (name "OKL2_T_6_W12N_C")(type "KiCad")(uri "${KIPRJMOD}/include/OKL2_T_6_W12N_C")(options "")(descr ""))
+  (lib (name "PJ-102AH")(type "KiCad")(uri "${KIPRJMOD}/include/PJ-102AH")(options "")(descr ""))
+  (lib (name "ul_484050003_footprints")(type "KiCad")(uri "${KIPRJMOD}/include/484050003/KiCADv6/ul_484050003_footprints.pretty")(options "")(descr ""))
+  (lib (name "436500403")(type "KiCad")(uri "${KIPRJMOD}/include/436500403")(options "")(descr ""))
+)
