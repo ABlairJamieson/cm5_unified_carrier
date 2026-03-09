@@ -11,4 +11,5 @@ Features:
 - Uses drop in DC/DC module for 12V->8V (IWCD camera)
 - Uses drop in DC/DC module for 12V->5V (both cameras)
 
-<img width="1411" height="825" alt="image" src="https://github.com/user-attachments/assets/ef35afb3-8cdd-42d6-9195-e1fb4a395e3d" />
+<img width="1435" height="977" alt="image" src="https://github.com/user-attachments/assets/d50ddff6-5e34-46bb-a8ba-29624e21a922" />
+
