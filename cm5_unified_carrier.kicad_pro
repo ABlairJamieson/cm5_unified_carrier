@@ -630,6 +630,10 @@
       {
         "netclass": "PWR_48",
         "pattern": "*48V_FROM_POE*"
+      },
+      {
+        "netclass": "USB2",
+        "pattern": "*USB2_HOST2*"
       }
     ]
   },
