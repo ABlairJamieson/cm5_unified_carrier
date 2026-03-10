@@ -645,7 +645,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "cm5_unified_carrier.step",
       "svg": "",
       "vrml": ""
     },
