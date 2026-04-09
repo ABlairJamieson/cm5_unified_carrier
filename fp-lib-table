@@ -9,4 +9,5 @@
   (lib (name "PJ-102AH")(type "KiCad")(uri "${KIPRJMOD}/include/PJ-102AH")(options "")(descr ""))
   (lib (name "ul_484050003_footprints")(type "KiCad")(uri "${KIPRJMOD}/include/484050003/KiCADv6/ul_484050003_footprints.pretty")(options "")(descr ""))
   (lib (name "436500403")(type "KiCad")(uri "${KIPRJMOD}/include/436500403")(options "")(descr ""))
+  (lib (name "ABS10")(type "KiCad")(uri "${KIPRJMOD}/include/ABS10")(options "")(descr ""))
 )

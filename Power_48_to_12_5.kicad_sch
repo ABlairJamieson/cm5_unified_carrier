@@ -616,22 +616,22 @@
 		)
 	)
 	(junction
-		(at 110.49 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0f03d64d-5c85-4b4e-9ddc-6d5dc8ca3834")
-	)
-	(junction
-		(at 96.52 81.28)
+		(at 77.47 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1f18d7dc-774a-48aa-9e4a-9ac7faad1eca")
 	)
 	(junction
-		(at 96.52 91.44)
+		(at 77.47 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "252c3858-7e44-4e2b-98b3-82ebc395be61")
+	)
+	(junction
+		(at 100.33 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "515de1c7-061b-4af7-835b-674527cd85ba")
 	)
 	(junction
 		(at 207.01 91.44)
@@ -687,17 +687,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 91.44) (xy 125.73 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "463f429a-ec17-4ab4-9e8d-458c900755ae")
-	)
-	(wire
-		(pts
-			(xy 110.49 83.82) (xy 125.73 83.82)
+			(xy 100.33 83.82) (xy 125.73 83.82)
 		)
 		(stroke
 			(width 0)
@@ -717,7 +707,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 91.44) (xy 110.49 91.44)
+			(xy 77.47 91.44) (xy 100.33 91.44)
 		)
 		(stroke
 			(width 0)
@@ -727,7 +717,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 83.82) (xy 110.49 91.44)
+			(xy 100.33 83.82) (xy 100.33 91.44)
 		)
 		(stroke
 			(width 0)
@@ -747,7 +737,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 91.44) (xy 96.52 91.44)
+			(xy 68.58 91.44) (xy 77.47 91.44)
 		)
 		(stroke
 			(width 0)
@@ -757,7 +747,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 81.28) (xy 96.52 81.28)
+			(xy 68.58 81.28) (xy 77.47 81.28)
 		)
 		(stroke
 			(width 0)
@@ -767,7 +757,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 81.28) (xy 125.73 81.28)
+			(xy 77.47 81.28) (xy 125.73 81.28)
 		)
 		(stroke
 			(width 0)
@@ -787,7 +777,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 99.06) (xy 125.73 99.06)
+			(xy 100.33 99.06) (xy 125.73 99.06)
 		)
 		(stroke
 			(width 0)
@@ -797,7 +787,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 91.44) (xy 110.49 99.06)
+			(xy 100.33 91.44) (xy 100.33 99.06)
 		)
 		(stroke
 			(width 0)
@@ -817,7 +807,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 88.9) (xy 96.52 91.44)
+			(xy 77.47 88.9) (xy 77.47 91.44)
 		)
 		(stroke
 			(width 0)
@@ -845,6 +835,16 @@
 		)
 		(uuid "ed719712-761f-4883-ad15-a1505f65f70b")
 	)
+	(wire
+		(pts
+			(xy 100.33 91.44) (xy 125.73 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe1e7b82-1bc6-406c-964d-cd86eba7bd07")
+	)
 	(hierarchical_label "V12_FROM_48"
 		(shape output)
 		(at 223.52 81.28 0)
@@ -867,7 +867,7 @@
 		)
 		(uuid "3e23585e-aad0-4791-8d4a-99b43453700e")
 	)
-	(hierarchical_label "VIN_48"
+	(hierarchical_label "V12_FROM_48"
 		(shape input)
 		(at 121.92 88.9 180)
 		(effects
@@ -891,7 +891,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 87.63 91.44 180)
+		(at 68.58 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -902,7 +902,7 @@
 	)
 	(hierarchical_label "VIN_48"
 		(shape input)
-		(at 87.63 81.28 180)
+		(at 68.58 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -990,7 +990,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 96.52 85.09 0)
+		(at 77.47 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -998,7 +998,7 @@
 		(dnp no)
 		(uuid "4e78974d-1faa-46d8-986d-e7a54906e007")
 		(property "Reference" "C301"
-			(at 100.33 82.9309 0)
+			(at 81.28 82.9309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1006,8 +1006,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
-			(at 100.33 85.4709 0)
+		(property "Value" "10uF"
+			(at 81.28 85.4709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1016,7 +1016,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.4"
-			(at 97.4852 88.9 0)
+			(at 78.4352 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1025,7 +1025,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 96.52 85.09 0)
+			(at 77.47 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1033,8 +1033,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 96.52 85.09 0)
+		(property "Description" "Unpolarized capacitor,  Wurth 865060845002"
+			(at 77.47 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1042,8 +1042,8 @@
 				(hide yes)
 			)
 		)
-		(property "Purpose" ">=25V"
-			(at 102.87 87.63 0)
+		(property "Purpose" ">=75V"
+			(at 83.82 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
